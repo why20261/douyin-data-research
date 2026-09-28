@@ -3,6 +3,10 @@ name: douyin-data-research
 description: 抖音数据智能助手。自媒体从业者的数据获取工具，提供抖音搜索、作品获取、实时评论数据等实时数据的批量获取，为后续的内容研究、选题分析、用户痛点、数据分析、市场调研、对标账号监控、舆情分析、抖音增长等场景提供真实可靠的数据支撑。支持四大能力：(1) 关键词搜索视频/图文，可按点赞数、发布时间、视频时长、内容类型筛选排序；(2) 实时热榜查询，获取抖音热搜词条与热度数据；(3) 博主作品抓取，按主页链接或 sec_uid 获取公开作品列表；(4) 视频评论分析，按视频链接或 aweme_id 获取评论内容与互动数据。
 license: MIT
 version: 1.3.0
+display_name: 🎯抖音数据智能助手
+display_name_en: DouYin Data Research
+description_zh: 抖音数据智能助手。自媒体从业者的数据获取工具，提供抖音搜索、作品获取、实时评论数据等实时数据的批量获取，为后续的内容研究、选题分析、用户痛点、数据分析、市场调研、对标账号监控、舆情分析、抖音增长等场景提供真实可靠的数据支撑。
+description_en: DouYin Data Intelligence Assistant. A data acquisition tool for self-media practitioners. It enables bulk retrieval of real-time data including DouYin search results, content extraction and live comment data. It provides authentic and reliable data support for subsequent scenarios such as content research, topic ideation analysis, user pain point identification, data analysis, market research, benchmark account monitoring, public opinion analysis and DouYin growth analysis.
 metadata:
   enabled: true
   type: command
