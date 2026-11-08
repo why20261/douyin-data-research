@@ -1,14 +1,12 @@
 {
   "name": "douyin-data-research",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "抖音数据智能助手。自媒体从业者的数据获取工具，提供抖音搜索、作品获取、实时评论数据等实时数据的批量获取，为后续的内容研究、选题分析、用户痛点、数据分析、市场调研、对标账号监控、舆情分析、抖音增长等场景提供真实可靠的数据支撑。同步基础能力含单条作品详情与评论需求/痛点挖掘；关键词搜索、博主作品、视频评论、实时热榜，输出结构化 JSON。",
   "keywords": [
     "douyin",
-    "user-insight",
-    "product-insight",
-    "product-analysis",
-    "marketing-analysis",
-    "product-management",
+    "search",
+    "hot",
+    "keyword",
     "content-analysis",
     "competitor-analysis"
   ],
